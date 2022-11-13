@@ -1,0 +1,8 @@
+#spring.datasource.url=${DB_URL}
+spring.datasource.username=postgres
+spring.datasource.password=01005883275
+spring.jpa.database-platform=org.hibernate.dialect.ProgressDialect
+spring.jpa.hibernate.dll-auto=none
+spring.jpa.hibernate.show-sql=true
+spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
+app.version=1.0.0
